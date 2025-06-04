@@ -1,0 +1,1 @@
+# No dependencies required for basic Python serverless function 
